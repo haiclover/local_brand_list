@@ -23,6 +23,6 @@
       "48": "images/clothes.png",
       "128": "images/clothes.png"
     },
-
-  	"manifest_version": 2
+  	"manifest_version": 2,
+    "author": "dinghi.19091999"
 }

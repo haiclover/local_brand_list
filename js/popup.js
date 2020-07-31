@@ -90,63 +90,57 @@ let local_brand_list = {
 		"web" : ""
 	},
 	"BLVCK": {
-		"image": "",
+		"image": "https://scontent.fhan2-2.fna.fbcdn.net/v/t1.0-9/104049871_1937186813083682_6524476128432278108_o.jpg?_nc_cat=106&_nc_sid=85a577&_nc_ohc=nd719XBBnyIAX9U_IDr&_nc_ht=scontent.fhan2-2.fna&oh=ac9f98de23b1a70b1e2ab9f728cf76c0&oe=5F498A3F",
 		"instagram": "",
-		"fb" : "",
-		"web" : ""
+		"fb" : "https://www.facebook.com/blvckclothings/",
+		"web" : "https://blvck-clothing.com/"
 	},
 	"Bloomode": {
-		"image": "",
-		"instagram": "",
-		"fb" : "",
-		"web" : ""
+		"image": "https://scontent.fhan2-6.fna.fbcdn.net/v/t1.0-9/1450133_315289765341202_6234785701109684146_n.jpg?_nc_cat=103&_nc_sid=85a577&_nc_ohc=-5uV67SVwFUAX8H4EIb&_nc_ht=scontent.fhan2-6.fna&oh=d5c3f09d99e98e350f997bee0baabc82&oe=5F4B0CBE",
+		"instagram": "https://www.instagram.com/bloomode/?hl=vi",
+		"fb" : "https://www.facebook.com/bloomode/",
+		"web" : "https://bloomode.com/"
 	},
 	"BOBUI STORE": {
-		"image": "",
-		"instagram": "",
-		"fb" : "",
-		"web" : ""
+		"image": "https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/43119290_2023722691027061_1432550349754859520_o.jpg?_nc_cat=102&_nc_sid=7aed08&_nc_ohc=delqU4DQYHUAX8wQgJi&_nc_ht=scontent.fhan2-1.fna&oh=020d72f9f150d642114d030dfc11f327&oe=5F4A4F7E",
+		"instagram": "https://www.instagram.com/bobui.store/?hl=vi",
+		"fb" : "https://www.facebook.com/bobuistore/",
+		"web" : "https://bobui.vn/"
 	},
 	"Bad habits": {
-		"image": "",
-		"instagram": "",
-		"fb" : "",
-		"web" : ""
+		"image": "https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/99044342_3180869871979876_2368969661141221376_n.png?_nc_cat=1&_nc_sid=85a577&_nc_ohc=XB_i8jqlCs8AX_LGEbq&_nc_ht=scontent.fhan2-3.fna&oh=a532d3d0dc36d0460a5ab073b7df6014&oe=5F4B4972",
+		"instagram": "https://www.instagram.com/badhabitsstore.vn/?hl=vi",
+		"fb" : "https://www.facebook.com/badhabitsstore/",
+		"web" : "https://badhabitsstore.vn/"
 	},
 	"Billion Dreamers": {
-		"image": "",
+		"image": "https://scontent.fhan2-2.fna.fbcdn.net/v/t1.0-9/98345437_1014522205644643_1400008971690967040_o.png?_nc_cat=111&_nc_sid=85a577&_nc_ohc=Uk8F4kQlL9UAX-b2wIm&_nc_ht=scontent.fhan2-2.fna&oh=90c018ef90e7b2dfd05ce299b35f0536&oe=5F4A303F",
 		"instagram": "",
-		"fb" : "",
+		"fb" : "https://www.facebook.com/BILLIONDREAMERS/",
 		"web" : ""
 	},
 	"BWAB": {
-		"image": "",
+		"image": "https://scontent.fhan2-2.fna.fbcdn.net/v/t1.0-9/23472408_1992967810944013_6108519378461346384_n.jpg?_nc_cat=106&_nc_sid=85a577&_nc_ohc=D7e9wjdr_gAAX9eKMZs&_nc_ht=scontent.fhan2-2.fna&oh=a70607ce255990d8b83502137e56bedf&oe=5F4B023C",
 		"instagram": "",
-		"fb" : "",
-		"web" : ""
-	},
-	"BegudB": {
-		"image": "",
-		"instagram": "",
-		"fb" : "",
+		"fb" : "https://www.facebook.com/bwab.store",
 		"web" : ""
 	},
 	"Centimental": {
-		"image": "",
+		"image": "https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/15284123_567994386740207_337562830825509371_n.png?_nc_cat=108&_nc_sid=85a577&_nc_ohc=nxilw4oHTLEAX9MSjx5&_nc_oc=AQkRiuSI9tDLMS1L2ZVzsrg_howqK2ytCrL-RWV8YfNBUHoB4WpzhpfPAldUGq_RpBM&_nc_ht=scontent.fhan2-3.fna&oh=d70c6ef9fa3415c937758e4aaf9bb149&oe=5F49B84E",
 		"instagram": "",
-		"fb" : "",
-		"web" : ""
+		"fb" : "https://www.facebook.com/centimentalofficial/",
+		"web" : "https://centimentalofficial.com/"
 	},
 	"Chillin'": {
-		"image": "",
-		"instagram": "",
-		"fb" : "",
+		"image": "https://scontent.fhan2-2.fna.fbcdn.net/v/t1.0-9/50401028_2176732985913107_2767005145412665344_n.jpg?_nc_cat=106&_nc_sid=85a577&_nc_ohc=e5IQ4S8FdlkAX-sL1BX&_nc_ht=scontent.fhan2-2.fna&oh=e07c34f6c4282ef14b1baa9ec9e71d79&oe=5F48688B",
+		"instagram": "https://www.instagram.com/chillinclothingz/?hl=vi",
+		"fb" : "https://www.facebook.com/Chillinz77/",
 		"web" : ""
 	},
 	"Callme": {
-		"image": "",
+		"image": "https://scontent.fhan2-2.fna.fbcdn.net/v/t1.0-9/26907437_1584798578262594_6182865148856828318_n.jpg?_nc_cat=111&_nc_sid=7aed08&_nc_ohc=bBNrBJxrsy0AX89Lrwy&_nc_ht=scontent.fhan2-2.fna&oh=36bbba4c4ebfd2581f9a41447834a916&oe=5F4816E6",
 		"instagram": "",
-		"fb" : "",
+		"fb" : "https://www.facebook.com/callmesaigon/",
 		"web" : ""
 	},
 	"Century Clothing": {
